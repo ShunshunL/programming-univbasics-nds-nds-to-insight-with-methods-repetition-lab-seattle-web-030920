@@ -48,6 +48,8 @@ def total_gross(source)
   # return the total
   total = 0 
   index = 0 
+  directors_totals_hash = directors_totals(source)
+  name_list = list_of_directors(source)
   while index < source.length do
     
   end
