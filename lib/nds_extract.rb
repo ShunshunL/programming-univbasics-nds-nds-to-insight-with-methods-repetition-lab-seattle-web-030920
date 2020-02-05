@@ -48,7 +48,9 @@ def total_gross(source)
   # return the total
   total = 0 
   index = 0 
-  pp source
+  while index < source.length do
+    
+  end
 end
 
 
